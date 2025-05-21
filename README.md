@@ -14,3 +14,5 @@ Requirements:
 - Must provide your own wordlists
 
   P.S. In the dictionary picking screen it gives some reccommendations that I have found effective, HOWEVER I have deliberately not attached them here and they can easily be found online and used.
+
+Edit: I have also uploaded a PDF by Mike Warner about some Surface Level wlan attacks which include some common vendor password masks.
